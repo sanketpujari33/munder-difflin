@@ -5,8 +5,6 @@ dist/
 .DS_Store
 *.log
 .vite/
-.env
-.env.local
 .env.signing
 .gstack/
 
@@ -25,3 +23,4 @@ docs/media/*.mov
 
 # raw demo screen recordings — only the compressed docs/media/demo/*.mp4 are deployed
 docs/media/MunderDifflin*.mp4
+config.bat
